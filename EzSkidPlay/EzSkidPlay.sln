@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzSkidPlay", "EzSkidPlay\EzSkidPlay.csproj", "{E924C4F1-F007-401B-9CC6-5CE5F1071383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E924C4F1-F007-401B-9CC6-5CE5F1071383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E924C4F1-F007-401B-9CC6-5CE5F1071383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E924C4F1-F007-401B-9CC6-5CE5F1071383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E924C4F1-F007-401B-9CC6-5CE5F1071383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB56B87-AD8E-4F04-9301-CA7682A9953B}
+	EndGlobalSection
+EndGlobal

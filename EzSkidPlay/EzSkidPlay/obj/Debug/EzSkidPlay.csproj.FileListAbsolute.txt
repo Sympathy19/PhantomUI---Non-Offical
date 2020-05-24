@@ -1,0 +1,14 @@
+D:\Other Programs\EzSkidPlay\EzSkidPlay\bin\Debug\HandyHelper.dll
+D:\Other Programs\EzSkidPlay\EzSkidPlay\obj\Debug\EzSkidPlay.csprojAssemblyReference.cache
+D:\Other Programs\EzSkidPlay\EzSkidPlay\obj\Debug\EzSkidPlay.Form1.resources
+D:\Other Programs\EzSkidPlay\EzSkidPlay\obj\Debug\EzSkidPlay.Properties.Resources.resources
+D:\Other Programs\EzSkidPlay\EzSkidPlay\obj\Debug\EzSkidPlay.csproj.GenerateResource.cache
+D:\Other Programs\EzSkidPlay\EzSkidPlay\obj\Debug\EzSkidPlay.csproj.CopyComplete
+D:\Other Programs\EzSkidPlay\EzSkidPlay\bin\Debug\phantom-windows-32bit.exe
+D:\Other Programs\EzSkidPlay\EzSkidPlay\bin\Debug\phantom-windows.exe
+D:\Other Programs\EzSkidPlay\EzSkidPlay\bin\Debug\LiteDB.dll
+D:\Other Programs\EzSkidPlay\EzSkidPlay\bin\Debug\PhantomUI.exe.config
+D:\Other Programs\EzSkidPlay\EzSkidPlay\bin\Debug\PhantomUI.exe
+D:\Other Programs\EzSkidPlay\EzSkidPlay\bin\Debug\PhantomUI.pdb
+D:\Other Programs\EzSkidPlay\EzSkidPlay\obj\Debug\PhantomUI.exe
+D:\Other Programs\EzSkidPlay\EzSkidPlay\obj\Debug\PhantomUI.pdb

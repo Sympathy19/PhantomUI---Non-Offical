@@ -1,0 +1,8 @@
+play.hyperlandsmc.net:19132
+//us.mineplex.com:19132
+mco.mineplex.com:19132
+pe.mineplex.com:19132
+Play.mineplex.com //EU
+play.cubecraft.net:19132 // one we going on with garry //Crashed on join
+play.lbsg.net
+sw.lbsg.net
